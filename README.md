@@ -2,7 +2,9 @@
 
 This document provides a brief overview of binary trees and binary search trees (BST), including their differences, advantages in terms of time complexity compared to linked lists, and key characteristics such as depth, height, size, and traversal methods. Additionally, it covers different types of binary trees.
 
-## Overview### What is a Binary Tree?
+## Overview
+
+### What is a Binary Tree?
 
 A binary tree is a data structure where each node has up to two children, known as the left child and the right child.
 
